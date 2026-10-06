@@ -14,12 +14,16 @@
 
 ## Contents
 
-1. [2026-10-06 — Work session](#2026-10-06-work-session)
+1. [2026-10-06 — I was deciding the electronics to use for this project. Like which servo motor should I use, which MCU would be good for this project. I had to figure this out first as diff servo motors have diff ope](#2026-10-06-i-was-deciding-the-electronics-to-use-for-this-pr)
 
 ## Design
 
-### 2026-10-06 — Work session
+### 2026-10-06 — I was deciding the electronics to use for this project. Like which servo motor should I use, which MCU would be good for this project. I had to figure this out first as diff servo motors have diff ope
 
 **0.3h**
+
+I was deciding the electronics to use for this project. Like which servo motor should I use, which MCU would be good for this project. I had to figure this out first as diff servo motors have diff operating voltages. So I will have to design the PCB considering this in mind. From the 12V common input I will step down voltages acc to the motors I am using.
+
+![WhatsApp Image 2026-10-06 at 22.50.22](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/oae5rNf3f0s2a83uL7OlmX3YqFJAy6cm/9e4eee42ada0d961e1f0b186df202448eaa1168f0684ebb13998c06951717775.jpeg)
 
 [Timelapse](https://lookout.hackclub.com/api/media/6857aeac-e66c-4642-9df0-e6c5af4ef18f/video.mp4)
